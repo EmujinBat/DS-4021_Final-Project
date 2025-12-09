@@ -38,22 +38,20 @@ PyTorch — neural network implementation
 
 ## Repository Structure
 
-├── data/
-│ └── training_set.csv
-│ └── test_set.csv
-│
-├── notebooks/
-│ ├── 01_EDA.ipynb
-│ ├── 02_Ridge_Regression.ipynb 
-│ ├── 03_SVM_Model.ipynb 
-│ ├── 04_RandomForest.ipynb 
-│ ├── 05_NeuralNetwork.ipynb 
-│ └── 06_Final_Testing.ipynb 
-│
-├── outputs/
-│ ├── plots
-│
-├── report.pdf # Final written report submission
-└── README.md # Project overview
-
-
+├── data/                                                                                                                                                                           
+│ └── training_set.csv                                                                                                                                                              
+│ └── test_set.csv                                                                                                                                                                  
+│                                                                                                                                                                                   
+├── notebooks/                                                                                                                                                                      
+│ ├── 01_EDA.ipynb                                                                                                                                                                  
+│ ├── 02_Ridge_Regression.ipynb                                                                                                                                                     
+│ ├── 03_SVM_Model.ipynb                                                                                                                                                            
+│ ├── 04_RandomForest.ipynb                                                                                                                                                         
+│ ├── 05_NeuralNetwork.ipynb                                                                                                                                                        
+│ └── 06_Final_Testing.ipynb                                                                                                                                                        
+│                                                                                                                                                                                   
+├── outputs/                                                                                                                                                                        
+│ ├── plots                                                                                                                                                                         
+│                                                                                                                                                                                   
+├── report.pdf # Final written report submission                                                                                                                                    
+└── README.md # Project overview                                                                                                                                                                   
