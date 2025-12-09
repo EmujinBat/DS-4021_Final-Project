@@ -26,15 +26,15 @@ Because the models performed similarly, this reinforces that hitters’ power in
 
 ## Software and Platform Requirements
 To run the project notebooks, the following tools and libraries are required:
-Python 3.8 or above
-Jupyter Notebook or JupyterLab
-Operating System: Compatible with MacOS, Windows, or Linux
-Required Python Packages:
-pandas — data manipulation
-numpy — numerical computing
-scikit-learn — model training + evaluation
-matplotlib & seaborn — data visualization
-PyTorch — neural network implementation
+- Python 3.8 or above
+- Jupyter Notebook or JupyterLab
+- Operating System: Compatible with MacOS, Windows, or Linux
+- Required Python Packages:
+- pandas — data manipulation
+- numpy — numerical computing
+- scikit-learn — model training + evaluation
+- matplotlib & seaborn — data visualization
+- PyTorch — neural network implementation
 
 ## Repository Structure
 
